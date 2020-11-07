@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dda0ae42-8518-4860-a907-c4da74f2fc52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jw8CaXpKwlQOVTPlgVP6Q0pL7y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/front" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/checkout-core/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front" />
+      <recent name="$PROJECT_DIR$/checkout-core/src" />
+      <recent name="$PROJECT_DIR$/checkout-store" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/checkout-core" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dda0ae42-8518-4860-a907-c4da74f2fc52" name="Default Changelist" comment="" />
+      <created>1604703666271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604703666271</updated>
+      <workItem from="1604703667319" duration="5158000" />
+      <workItem from="1604756306729" duration="12803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="199" width="551" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604764221000">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="438" y="199" width="551" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741@72.27.1294.741" timestamp="1604764221000" />
+    <state x="302" y="143" width="824" height="515" key="IDE.errors.dialog" timestamp="1604776089773">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="302" y="143" width="824" height="515" key="IDE.errors.dialog/72.27.1294.741@72.27.1294.741" timestamp="1604776089773" />
+    <state x="172" y="127" width="1094" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604764155225">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="172" y="127" width="1094" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/72.27.1294.741@72.27.1294.741" timestamp="1604764155225" />
+  </component>
+</project>
